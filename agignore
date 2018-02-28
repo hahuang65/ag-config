@@ -1,0 +1,10 @@
+autotest
+coverage
+extdoc
+extdoc_buildfiles
+db/seeds.rb
+doc
+log
+notes
+public
+tmp
